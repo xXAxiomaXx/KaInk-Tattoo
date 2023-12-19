@@ -6,9 +6,9 @@ Landpage made for a Tattoo artist to show his work and his contacts.
 
 ## Screenshots
 
-![App Screenshot](./screenshot1.jpg)
-![App Screenshot](./screenshot2.jpg)
-![App Screenshot](./screenshot3.jpg)
+![App Screenshot](./screenshot1.png)
+![App Screenshot](./screenshot2.png)
+![App Screenshot](./screenshot3.png)
 
 
 ### Links
