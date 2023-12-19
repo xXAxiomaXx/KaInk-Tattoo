@@ -496,7 +496,7 @@ nav img{
 
 }
 
-@media (max-width: 376px){
+@media (max-width: 375px){
   .nav-mob a{
     padding: 0 5px;
 
